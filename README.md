@@ -127,6 +127,8 @@ CommonWealth-Bank-Simulation/
 │   ├── types.ts                       # TypeScript interfaces
 │   ├── GoalManager.tsx                # Emoji picker implementation
 │   └── GoalCard.tsx                   # Icon display component
+├── Task-3-Integration/
+│   ├── README.md                      
 ├── Task-4-Testing/
 │   └── GoalControllerTests.cs         # Unit tests
 └── Task-5-Documentation/
